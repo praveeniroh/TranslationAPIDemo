@@ -21,7 +21,10 @@ struct ContentView: View {
         //MARK: Bluk translation 
 //        BulkTranslationView()
 
-        BulkTranslationWithAsyncSeqView()
+//        BulkTranslationWithAsyncSeqView()
+
+        //MARK: Multiple language transltion
+        MultipleLanguageTranslation()
     }
 }
 
